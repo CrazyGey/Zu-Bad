@@ -1,4 +1,4 @@
-return {
+{
     model = "models/clonetrooper.mdl",
     texture = "https://raw.githubusercontent.com/CrazyGey/Zu-Bad/blob/main/p1clone_testbody_501st-custom.png"
 }
